@@ -1,0 +1,17 @@
+23/3
+	chrome, postman, api work well
+	next: 
+		+ chrome extension and ajax, there must be a way
+		+ how to play the returned wav file immediately?
+
+25/3
+	option1: 
+		write file, and save in server
+		serve that file as a static file
+		client just need to change path
+
+	next: copy project to vm check path and test 
+
+26/3
+	option1: solve
+	next make it run for chrome extension, this will be fun kakaka
